@@ -1,4 +1,4 @@
-module github.com/MrMelon54/mass-rename
+module github.com/mrmelon54/mass-rename
 
 go 1.20
 

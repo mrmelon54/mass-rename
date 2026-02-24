@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	massRename "github.com/MrMelon54/mass-rename"
+	massRename "github.com/mrmelon54/mass-rename"
 	"github.com/spf13/afero"
 	"io"
 	ioFs "io/fs"
